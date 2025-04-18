@@ -1,0 +1,94 @@
+.customers-container {
+  background-color: #121212;
+  padding: 4rem 2rem;
+  color: #fff;
+}
+
+.customers-title {
+  text-align: center;
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #2196F3, #64b5f6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.customers-subtitle {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #888;
+  margin-bottom: 3rem;
+}
+
+.customers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.customer-card {
+  background: #1e1e1e;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.customer-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(33, 150, 243, 0.2);
+}
+
+.customer-image {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.customer-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.customer-card:hover .customer-image img {
+  transform: scale(1.05);
+}
+
+.customer-content {
+  padding: 1.5rem;
+}
+
+.customer-content h3 {
+  font-size: 1.5rem;
+  margin: 0 0 0.5rem 0;
+  background: linear-gradient(135deg, #2196F3, #64b5f6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.customer-content .position {
+  color: #888;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.customer-dates {
+  border-top: 1px solid #333;
+  padding-top: 1rem;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.customer-dates h5 {
+  margin: 0;
+  color: #aaa;
+  font-size: 0.9rem;
+  font-weight: normal;
+}
