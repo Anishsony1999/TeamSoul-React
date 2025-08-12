@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anishsony1999.github.io/TeamSoul-React/static/css/main.f528cbc3.css",
+    "main.js": "/anishsony1999.github.io/TeamSoul-React/static/js/main.c0ae2d0f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/anishsony1999.github.io/TeamSoul-React/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/anishsony1999.github.io/TeamSoul-React/index.html",
+    "main.f528cbc3.css.map": "/anishsony1999.github.io/TeamSoul-React/static/css/main.f528cbc3.css.map",
+    "main.c0ae2d0f.js.map": "/anishsony1999.github.io/TeamSoul-React/static/js/main.c0ae2d0f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/anishsony1999.github.io/TeamSoul-React/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f528cbc3.css",
+    "static/js/main.c0ae2d0f.js"
+  ]
+}
