@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TeamSoul-React/static/css/main.f528cbc3.css",
-    "main.js": "/TeamSoul-React/static/js/main.005094d0.js",
+    "main.js": "/TeamSoul-React/static/js/main.d7bd9244.js",
     "static/js/453.ad6eb26e.chunk.js": "/TeamSoul-React/static/js/453.ad6eb26e.chunk.js",
     "index.html": "/TeamSoul-React/index.html",
     "main.f528cbc3.css.map": "/TeamSoul-React/static/css/main.f528cbc3.css.map",
-    "main.005094d0.js.map": "/TeamSoul-React/static/js/main.005094d0.js.map",
+    "main.d7bd9244.js.map": "/TeamSoul-React/static/js/main.d7bd9244.js.map",
     "453.ad6eb26e.chunk.js.map": "/TeamSoul-React/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f528cbc3.css",
-    "static/js/main.005094d0.js"
+    "static/js/main.d7bd9244.js"
   ]
 }
